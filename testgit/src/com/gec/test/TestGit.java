@@ -8,4 +8,8 @@ public class TestGit {
     public void updateUser(){
         System.out.println("public void updateUser()");
     }
+
+    public void deleteUser(){
+        System.out.println("public void deleteUser()");
+    }
 }
