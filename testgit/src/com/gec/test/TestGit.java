@@ -1,7 +1,7 @@
 package com.gec.test;
 
 public class TestGit {
-   public void addUser(){
-       System.out.println("branch");
-   }
+    public void selectUser(){
+        System.out.println("public void selectUser()...");
+    }
 }
